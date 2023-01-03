@@ -1,1 +1,1 @@
-# Nft-Create-Upload-Update
+# solana-npx-client-template
